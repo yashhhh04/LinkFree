@@ -13,6 +13,11 @@
       "name": "Follow me on Github",
       "url": "https://github.com/yashhhh04",
       "icon": "FaGithubAlt"
+    },
+      {
+      "name": "Let's connect on Linkedin",
+      "url": "https://www.linkedin.com/in/yash-samar-0o4/",
+      "icon": "FaLinkedin"
     }
   ]
 }
